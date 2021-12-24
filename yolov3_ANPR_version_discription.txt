@@ -1,0 +1,3 @@
+yolov3_ANPR_original => 將原參考資料(車牌辨識&號碼辨識)程式碼結合。號碼辨識精準度測試 => "直接辨識整張車牌"&"拆解個別辨識"。
+yolov3_ANPR_module => 選用"直接辨識整張車牌"，精簡yolov3_ANPR_original程式碼，並將程式碼設為module。
+yolov3_ANPR_flask => 加入Flask所需程式碼。
